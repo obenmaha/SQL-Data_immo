@@ -1,0 +1,110 @@
+dep_code;reg_code;regrgp_nom;reg_nom;dep_nom
+1;84;Province;Auvergne-Rhône-Alpes;Ain
+2;32;Province;Hauts-de-France;Aisne
+3;84;Province;Auvergne-Rhône-Alpes;Allier
+4;93;Province;Provence-Alpes-Côte d'Azur;Alpes-de-Haute-Provence
+5;93;Province;Provence-Alpes-Côte d'Azur;Hautes-Alpes
+6;93;Province;Provence-Alpes-Côte d'Azur;Alpes-Maritimes
+7;84;Province;Auvergne-Rhône-Alpes;Ardèche
+8;44;Province;Grand Est;Ardennes
+9;76;Province;Occitanie;Ariège
+10;44;Province;Grand Est;Aube
+11;76;Province;Occitanie;Aude
+12;76;Province;Occitanie;Aveyron
+13;93;Province;Provence-Alpes-Côte d'Azur;Bouches-du-Rhône
+14;28;Province;Normandie;Calvados
+15;84;Province;Auvergne-Rhône-Alpes;Cantal
+16;75;Province;Nouvelle-Aquitaine;Charente
+17;75;Province;Nouvelle-Aquitaine;Charente-Maritime
+18;24;Province;Centre-Val de Loire;Cher
+19;75;Province;Nouvelle-Aquitaine;Corrèze
+21;27;Province;Bourgogne-Franche-Comté;Côte-d'Or
+22;53;Province;Bretagne;Côtes-d'Armor
+23;75;Province;Nouvelle-Aquitaine;Creuse
+24;75;Province;Nouvelle-Aquitaine;Dordogne
+25;27;Province;Bourgogne-Franche-Comté;Doubs
+26;84;Province;Auvergne-Rhône-Alpes;Drôme
+27;28;Province;Normandie;Eure
+28;24;Province;Centre-Val de Loire;Eure-et-Loir
+29;53;Province;Bretagne;Finistère
+30;76;Province;Occitanie;Gard
+31;76;Province;Occitanie;Haute-Garonne
+32;76;Province;Occitanie;Gers
+33;75;Province;Nouvelle-Aquitaine;Gironde
+34;76;Province;Occitanie;Hérault
+35;53;Province;Bretagne;Ille-et-Vilaine
+36;24;Province;Centre-Val de Loire;Indre
+37;24;Province;Centre-Val de Loire;Indre-et-Loire
+38;84;Province;Auvergne-Rhône-Alpes;Isère
+39;27;Province;Bourgogne-Franche-Comté;Jura
+40;75;Province;Nouvelle-Aquitaine;Landes
+41;24;Province;Centre-Val de Loire;Loir-et-Cher
+42;84;Province;Auvergne-Rhône-Alpes;Loire
+43;84;Province;Auvergne-Rhône-Alpes;Haute-Loire
+44;52;Province;Pays de la Loire;Loire-Atlantique
+45;24;Province;Centre-Val de Loire;Loiret
+46;76;Province;Occitanie;Lot
+47;75;Province;Nouvelle-Aquitaine;Lot-et-Garonne
+48;76;Province;Occitanie;Lozère
+49;52;Province;Pays de la Loire;Maine-et-Loire
+50;28;Province;Normandie;Manche
+51;44;Province;Grand Est;Marne
+52;44;Province;Grand Est;Haute-Marne
+53;52;Province;Pays de la Loire;Mayenne
+54;44;Province;Grand Est;Meurthe-et-Moselle
+55;44;Province;Grand Est;Meuse
+56;53;Province;Bretagne;Morbihan
+57;44;Province;Grand Est;Moselle
+58;27;Province;Bourgogne-Franche-Comté;Nièvre
+59;32;Province;Hauts-de-France;Nord
+60;32;Province;Hauts-de-France;Oise
+61;28;Province;Normandie;Orne
+62;32;Province;Hauts-de-France;Pas-de-Calais
+63;84;Province;Auvergne-Rhône-Alpes;Puy-de-Dôme
+64;75;Province;Nouvelle-Aquitaine;Pyrénées-Atlantiques
+65;76;Province;Occitanie;Hautes-Pyrénées
+66;76;Province;Occitanie;Pyrénées-Orientales
+67;44;Province;Grand Est;Bas-Rhin
+68;44;Province;Grand Est;Haut-Rhin
+69;84;Province;Auvergne-Rhône-Alpes;Rhône
+70;27;Province;Bourgogne-Franche-Comté;Haute-Saône
+71;27;Province;Bourgogne-Franche-Comté;Saône-et-Loire
+72;52;Province;Pays de la Loire;Sarthe
+73;84;Province;Auvergne-Rhône-Alpes;Savoie
+74;84;Province;Auvergne-Rhône-Alpes;Haute-Savoie
+75;11;Ile-de-France;Ile-de-France;Paris
+76;28;Province;Normandie;Seine-Maritime
+77;11;Ile-de-France;Ile-de-France;Seine-et-Marne
+78;11;Ile-de-France;Ile-de-France;Yvelines
+79;75;Province;Nouvelle-Aquitaine;Deux-Sèvres
+80;32;Province;Hauts-de-France;Somme
+81;76;Province;Occitanie;Tarn
+82;76;Province;Occitanie;Tarn-et-Garonne
+83;93;Province;Provence-Alpes-Côte d'Azur;Var
+84;93;Province;Provence-Alpes-Côte d'Azur;Vaucluse
+85;52;Province;Pays de la Loire;Vendée
+86;75;Province;Nouvelle-Aquitaine;Vienne
+87;75;Province;Nouvelle-Aquitaine;Haute-Vienne
+88;44;Province;Grand Est;Vosges
+89;27;Province;Bourgogne-Franche-Comté;Yonne
+90;27;Province;Bourgogne-Franche-Comté;Territoire de Belfort
+91;11;Ile-de-France;Ile-de-France;Essonne
+92;11;Ile-de-France;Ile-de-France;Hauts-de-Seine
+93;11;Ile-de-France;Ile-de-France;Seine-Saint-Denis
+94;11;Ile-de-France;Ile-de-France;Val-de-Marne
+95;11;Ile-de-France;Ile-de-France;Val-d'Oise
+971;01;DROM-COM;Guadeloupe;Guadeloupe
+972;02;DROM-COM;Martinique;Martinique
+973;03;DROM-COM;Guyane;Guyane
+974;04;DROM-COM;La Réunion;La Réunion
+975;00;DROM-COM;Collectivités d'outre-mer;Saint-Pierre-et-Miquelon
+976;06;DROM-COM;Mayotte;Mayotte
+977;00;DROM-COM;Collectivités d'outre-mer;Saint-Barthélemy
+978;00;DROM-COM;Collectivités d'outre-mer;Saint-Martin
+984;00;DROM-COM;Collectivités d'outre-mer;Terres australes et antarctiques françaises
+986;00;DROM-COM;Collectivités d'outre-mer;Wallis et Futuna
+987;00;DROM-COM;Collectivités d'outre-mer;Polynésie Française
+988;00;DROM-COM;Collectivités d'outre-mer;Nouvelle-Calédonie
+989;00;DROM-COM;Collectivités d'outre-mer;Ile de Clipperton
+2A;94;Province;Corse;Corse-du-Sud
+2B;94;Province;Corse;Haute-Corse
