@@ -11,7 +11,7 @@ Ce projet consiste à créer et utiliser une base de données immobilière pour 
 - **Support de présentation** : Présentation des résultats et méthodologie du projet.
 
 ## Installation
-1. Clonez le dépôt : `git clone https://github.com/votre_nom_utilisateur/Projet-5-DataImmo.git`
+1. Clonez le dépôt : `git clone https://github.com/obenmaha/SQL-Data_immo.git`
 2. Importez les fichiers SQL dans votre SGBD (SQLite, MySQL, PostgreSQL).
 3. Exécutez les scripts SQL pour créer les tables et charger les données.
 
